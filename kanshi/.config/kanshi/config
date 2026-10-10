@@ -1,0 +1,25 @@
+profile {
+    output eDP-1 enable mode 2560x1600@165Hz scale 1.5 position 0,0
+}
+
+profile {
+    output DP-1 enable mode 2560x1440@164.056Hz position 0,0
+    output eDP-1 enable mode 2560x1600@165Hz scale 1.5 position 2560,186
+}
+
+
+profile {
+    output DP-2 enable mode 2560x1440@164.056Hz position 0,0
+    output eDP-1 enable mode 2560x1600@165Hz scale 1.5 position 2560,186
+}
+
+profile {
+    output DP-1 enable mode 2560x1440@164.056Hz position 0,0
+}
+
+
+
+
+
+
+
